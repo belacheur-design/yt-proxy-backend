@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Aurora Skies",
+    "artist": "NoCopyright Blend",
+    "mood": "ambient calm",
+    "genre": "electronic",
+    "tempo": "slow",
+    "license": "CC0",
+    "url": "https://pixabay.com/music/",
+    "tags": [
+      "ambient",
+      "lofi",
+      "chill"
+    ]
+  },
+  {
+    "title": "Cinematic Rise",
+    "artist": "Studio Orchestrals",
+    "mood": "epic dramatic",
+    "genre": "orchestral",
+    "tempo": "medium",
+    "license": "CC-BY 4.0",
+    "url": "https://freemusicarchive.org/",
+    "tags": [
+      "cinematic",
+      "strings",
+      "build"
+    ]
+  },
+  {
+    "title": "Night Drive",
+    "artist": "Citywave",
+    "mood": "dark confident",
+    "genre": "synthwave",
+    "tempo": "medium",
+    "license": "CC0",
+    "url": "https://pixabay.com/music/",
+    "tags": [
+      "retro",
+      "80s",
+      "electronic"
+    ]
+  },
+  {
+    "title": "Sunny Vlog",
+    "artist": "Acoustic Stories",
+    "mood": "happy upbeat",
+    "genre": "acoustic",
+    "tempo": "medium",
+    "license": "CC-BY 3.0",
+    "url": "https://freemusicarchive.org/",
+    "tags": [
+      "guitar",
+      "whistle",
+      "folk"
+    ]
+  },
+  {
+    "title": "Deep Focus",
+    "artist": "LoStudio",
+    "mood": "calm study",
+    "genre": "lofi",
+    "tempo": "slow",
+    "license": "CC0",
+    "url": "https://pixabay.com/music/",
+    "tags": [
+      "lofi",
+      "study",
+      "beat"
+    ]
+  },
+  {
+    "title": "Trap Punch",
+    "artist": "BeatForge",
+    "mood": "aggressive energetic",
+    "genre": "trap",
+    "tempo": "fast",
+    "license": "Royalty-free (check terms)",
+    "url": "https://artlist.io/",
+    "tags": [
+      "808",
+      "trap",
+      "rap"
+    ]
+  },
+  {
+    "title": "Grand Horizons",
+    "artist": "ScoreLab",
+    "mood": "epic inspiring",
+    "genre": "orchestral",
+    "tempo": "medium",
+    "license": "Royalty-free (check terms)",
+    "url": "https://artlist.io/",
+    "tags": [
+      "brass",
+      "strings",
+      "cinematic"
+    ]
+  },
+  {
+    "title": "Ocean Breath",
+    "artist": "Waves & Keys",
+    "mood": "relaxing peaceful",
+    "genre": "piano",
+    "tempo": "slow",
+    "license": "CC0",
+    "url": "https://pixabay.com/music/",
+    "tags": [
+      "piano",
+      "ambient",
+      "meditation"
+    ]
+  }
+]
